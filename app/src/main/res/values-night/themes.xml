@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Personalfinancetracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="Base.Theme.PersonalFinanceTracker" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.PersonalFinanceTracker" parent="Base.Theme.PersonalFinanceTracker" />
+
+    <style name="Theme.PersonalFinanceTracker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.PersonalFinanceTracker.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

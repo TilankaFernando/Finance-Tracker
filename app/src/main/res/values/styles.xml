@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PersonalFinanceTracker" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#04071B</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- In styles.xml -->
+
+
+    </style>
+
+
+    <style name="Theme.PersonalFinanceTracker" parent="Base.Theme.Personalfinancetracker" />
+</resources>
